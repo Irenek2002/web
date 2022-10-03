@@ -1,0 +1,21 @@
+    .red-text {
+    color: rgb(141, 149, 160);
+  }
+    .color1 {
+      background-color: rgb(119, 115, 142);
+  }
+    .color2 {
+      background-color: rgb(133, 148, 169);
+  }
+    .color3 {
+      background-color: rgb(13, 13, 14);
+  }
+    .color4 {
+    color: aliceblue;
+  }
+    .wrap{
+  margin:0 auto;
+  }
+  .color5{
+    color: rgb(173, 28, 28);
+  }
